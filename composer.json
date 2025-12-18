@@ -1,0 +1,6 @@
+{
+    "name": "instapost/app",
+    "require": {
+        "mongodb/mongodb": "^1.19"
+    }
+}
